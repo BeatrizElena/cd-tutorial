@@ -1,6 +1,6 @@
 # cd-tutorial-app
 
-[![Build Status](https://travis-ci.org/BeatrizElena/cd-tutorial.svg?branch=master)](https://travis-ci.org/BeatrizElena/cd-tutorial)
+[![Travis](https://travis-ci.org/BeatrizElena/cd-tutorial.svg?branch=master)](https://travis-ci.org/BeatrizElena/cd-tutorial)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
